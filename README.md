@@ -1,6 +1,6 @@
 # Linear Regression for Data House Pricing-Boston
 This is a small project of my review about Machine Learning
-# 1. The project uses boston's data house pricing:
+# The project uses boston's data house pricing:
 - ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
 - INDUS: proportion of non-retail business acres per town
 - CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
